@@ -4,7 +4,7 @@ This set of codes support the results of the book chapter "Locating Velocity Cha
 
  https://doi.org/10.1017/9781108264808.008
  
- The main goal is to study travel time changes observed in multiple-scattering elastic waves (i.e., coda waves). They can be discribed statistically by a probabilistic sensitivity function (i.e., sensitivity kernel). 
+ The main goal is to study travel time changes observed in multiple-scattering elastic waves (i.e., coda waves). They can be described statistically by a probabilistic sensitivity function (i.e., sensitivity kernel). 
  
  ----------- Folders -----------
  
